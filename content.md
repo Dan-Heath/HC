@@ -1,4 +1,4 @@
-# What is the difference between push, pull, and fetch?
+# What is the difference between push, fetch, and pull?
 
 [Git](https://git-scm.com/) provides several options for synchronizing your remote and local branches:
 
